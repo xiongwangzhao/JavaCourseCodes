@@ -1,4 +1,4 @@
-package java0.conc0303.stream;
+package main.java.java0.conc0303.stream;
 
 import java.util.ArrayList;
 import java.util.List;

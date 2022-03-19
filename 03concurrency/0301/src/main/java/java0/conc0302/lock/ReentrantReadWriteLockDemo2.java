@@ -1,5 +1,5 @@
 
-package java0.conc0302.lock;
+package main.java.java0.conc0302.lock;
 
 import java.util.HashMap;
 import java.util.Map;

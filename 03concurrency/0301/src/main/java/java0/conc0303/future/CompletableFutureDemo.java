@@ -1,4 +1,4 @@
-package java0.conc0303.future;
+package main.java.java0.conc0303.future;
 
 import java.util.concurrent.CompletableFuture;
 

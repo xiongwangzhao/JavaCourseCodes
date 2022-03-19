@@ -1,4 +1,4 @@
-package java0.conc0301.op;
+package main.java.java0.conc0301.op;
 
 public class WaitAndNotify {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 
-package java0.conc0303.tool;
+package main.java.java0.conc0303.tool;
 
 import java.util.concurrent.Semaphore;
 

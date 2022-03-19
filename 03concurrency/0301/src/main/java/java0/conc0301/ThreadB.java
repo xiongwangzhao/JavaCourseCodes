@@ -1,5 +1,4 @@
-package java0.conc0301;
-
+package main.java.java0.conc0301;
 public class ThreadB implements Runnable {
 
     @Override

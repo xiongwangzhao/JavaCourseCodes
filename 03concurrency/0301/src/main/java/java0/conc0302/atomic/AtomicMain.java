@@ -1,5 +1,5 @@
 
-package java0.conc0302.atomic;
+package main.java.java0.conc0302.atomic;
 
 public class AtomicMain {
 

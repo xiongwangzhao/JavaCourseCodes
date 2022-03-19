@@ -1,4 +1,4 @@
-package java0.conc0303.collection;
+package main.java.java0.conc0303.collection;
 
 import java.util.HashMap;
 import java.util.Iterator;

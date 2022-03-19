@@ -1,4 +1,4 @@
-package java0.conc0303.threadlocal;
+package main.java.java0.conc0303.threadlocal;
 
 public class ThreadLocalDemo {
     

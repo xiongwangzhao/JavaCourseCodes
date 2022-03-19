@@ -1,4 +1,4 @@
-package java0.conc0303;
+package main.java.java0.conc0303;
 
 import java.util.concurrent.CountDownLatch;
 

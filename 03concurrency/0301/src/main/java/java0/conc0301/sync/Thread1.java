@@ -1,5 +1,5 @@
 
-package java0.conc0301.sync;
+package main.java.java0.conc0301.sync;
 
 public class Thread1 implements Runnable {
 
